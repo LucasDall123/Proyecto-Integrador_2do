@@ -35,7 +35,8 @@ Sistema web completo para la gestión de talleres de reparación y seguimiento d
 
 1. **Clonar el repositorio**
    ```bash
-   cd /home/lucasd/Documentos/2026/Proyecto
+   git clone https://github.com/LucasDall123/Proyecto-Integrador_2do.git
+   cd Proyecto-Integrador_2do
    ```
 
 2. **Instalar dependencias de PHP**
